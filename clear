@@ -1,0 +1,27 @@
+[33mcommit 78bea4243b2591f9577e9fe7cb07fcfba42caf14[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kuldeep <kverma@isystango.com>
+Date:   Tue Sep 29 13:39:03 2020 +0530
+
+    Added something
+
+[1mdiff --git a/about.html b/about.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/contact.html b/contact.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 7e903ae9e75b292e0c972942d539f691423671f3[m
+Author: kuldeep <kverma@isystango.com>
+Date:   Tue Sep 29 13:30:52 2020 +0530
+
+    Initial commit
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9118d6c[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32masdasd[m
+\ No newline at end of file[m
